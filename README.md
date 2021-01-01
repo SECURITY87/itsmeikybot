@@ -2,15 +2,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AthallahDzaki)
 
-[![Athallah github stats](https://github-readme-stats.vercel.app/api?username=AthallahDzaki&show_icons=true&theme=radical)](https://github.com/AthallahDzaki/)
+[![Athallah github stats](https://github-readme-stats.vercel.app/api?username=itsmeikybot&show_icons=true&theme=radical)](https://github.com/AthallahDzaki/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AthallahDzaki&repo=SAMPMobile)](https://github.com/AthallahDzaki/SAMPMobile)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently studying on Senior High School on Malang, Jawa Timur, Indonesia
 - 🌱 I’m currently learning JS, CPP, C, PHP and HTML
 - ⚡fun fact:  Im is Open Mind Man
-- 📫 How to reach me : [GMAIL](mailto:athallahdzaki@gmail.com) [FACEBOOK](https://facebook.com/AthallahDzaki) [DISCORD](https://discord.gg/idrp)
+- 📫 How to reach me : [GMAIL](mailto:athallahdzaki@gmail.com) [FACEBOOK](https://facebook.com/itsmeikuxsec.6) [DISCORD](https://discord.gg/itsmeiky)
 
-- [My Repl.it Project](https://github.com/AthallahDzaki/MyRepl.it)
+- [My Repl.it Project](https://github.com/itsmeikybot.github.com)
 <!--
 **AthallahDzaki/AthallahDzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
