@@ -1,14 +1,14 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-![](https://visitor-badge.glitch.me/badge?page_id=AthallahDzaki)
+![](https://visitor-badge.glitch.me/badge?page_id=itsmeikybot)
 
 [![Athallah github stats](https://github-readme-stats.vercel.app/api?username=itsmeikybot&show_icons=true&theme=radical)](https://github.com/AthallahDzaki/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AthallahDzaki&repo=SAMPMobile)](https://github.com/AthallahDzaki/SAMPMobile)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmeikybot&repo=SAMPMobile)](https://github.com/itsmeikybot/itsmeikybot.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeikybot&layout=compact)](https://github.com/itsmeikybot/github-readme-stats)
 - 🔭 I’m currently studying on Senior High School on Malang, Jawa Timur, Indonesia
 - 🌱 I’m currently learning JS, CPP, C, PHP and HTML
 - ⚡fun fact:  Im is Open Mind Man
-- 📫 How to reach me : [GMAIL](mailto:athallahdzaki@gmail.com) [FACEBOOK](https://facebook.com/itsmeikuxsec.6) [DISCORD](https://discord.gg/itsmeiky)
+- 📫 How to reach me : [GMAIL](mailto:itsmeikybot@gmail.com) [FACEBOOK](https://facebook.com/itsmeikuxsec.6) [DISCORD](https://discord.gg/itsmeiky)
 
 - [My Repl.it Project](https://github.com/itsmeikybot.github.com)
 <!--
